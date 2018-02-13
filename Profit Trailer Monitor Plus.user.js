@@ -2,7 +2,7 @@
 // @name         Profit Trailer Monitor Plus
 // @description  Pimp up your Profit Trailer Monitor with percentage profit change, several Bitcoin units and several fiat currencies.
 // @namespace    https://www.bugs-ev.de
-// @version      01.0.01
+// @version      01.0.02
 // @author       Ediz Turcan
 // @match        http*://localhost:8081/*
 // @supportURL   https://www.bugs-ev.de/contact/
