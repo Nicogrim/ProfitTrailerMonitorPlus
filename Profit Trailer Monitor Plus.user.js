@@ -15,10 +15,10 @@
     'use strict';
 
     // Your local language code, e.g. de-DE, en-EN, en-GB
-    const locale = 'de-DE';
+    const locale = 'en-EN';
 
     // BTC, mBTC or Bits
-    var currency = 'Bits';
+    var currency = 'BTC';
 
     // USD or EUR
     const fiat = 'EUR';
