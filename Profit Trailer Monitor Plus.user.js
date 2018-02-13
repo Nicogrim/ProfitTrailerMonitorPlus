@@ -4,7 +4,8 @@
 // @version      01.0.00
 // @description  Vires in Numeris
 // @author       Ediz Turcan
-// @match        https://localhost:8081/*
+// @match        https://turcan.de:8081/*
+// @updateURL    https://github.com/JediWed/ProfitTrailerMonitorPlus/raw/master/Profit%20Trailer%20Monitor%20Plus.user.js
 // @grant        none
 // ==/UserScript==
 
