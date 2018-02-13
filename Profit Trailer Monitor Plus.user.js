@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Profit Trailer Monitor Plus
+// @description  Pimp up your Profit Trailer Monitor with percentage profit change, several Bitcoin units and several fiat currencies.
 // @namespace    https://www.bugs-ev.de
 // @version      01.0.01
-// @description  Vires in Numeris
 // @author       Ediz Turcan
-// @match        https://localhost:8081/*
-// @@downloadURL https://github.com/JediWed/ProfitTrailerMonitorPlus/raw/master/Profit%20Trailer%20Monitor%20Plus.user.js   
+// @match        http*://localhost:8081/*
+// @supportURL   https://www.bugs-ev.de/contact/
+// @@downloadURL https://github.com/JediWed/ProfitTrailerMonitorPlus/raw/master/Profit%20Trailer%20Monitor%20Plus.user.js
 // @updateURL    https://github.com/JediWed/ProfitTrailerMonitorPlus/raw/master/Profit%20Trailer%20Monitor%20Plus.user.js
 // @grant        none
 // ==/UserScript==
